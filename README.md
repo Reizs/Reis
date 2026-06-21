@@ -18,7 +18,7 @@ Olá! Eu sou **Reis**. 👋
 - ⚡ Fun fact: Gosto de fazer Mods de jogos
 
 <div align="center">
-<img src="https://github.com/Reizs/Reis/blob/main/021d010c-eda6-4280-be2b-9fc2105fc33d.png?raw=true" width="100%"/>
+<img src="https://github.com/Reizs/Reis/blob/main/cd869525-e2a4-451e-b15c-00d2442c3245.png?raw=true" width="100%"/>
 <br><br>
 
 
