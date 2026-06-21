@@ -9,7 +9,7 @@
 
 ## 📌 Sobre mim
 
-Olá! Eu sou **Reis**. 👋
+ Eu sou **Reis**. 
 
 - 🎓 Estudando Sistemas de Informação
 - 🔐 Curioso por Cybersecurity e IA
