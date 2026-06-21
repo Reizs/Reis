@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Reizs/Reis/edit/main/README.md" width="100%"/>
+<img src="https://github.com/Reizs/Reis/blob/main/021d010c-eda6-4280-be2b-9fc2105fc33d.png?raw=true" width="100%"/>
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-reis-6b66b2284)
@@ -19,7 +19,7 @@ Olá! Eu sou **Reis**. 👋
 
 ## 🛠️ Tecnologias
 
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,cpp,java,git,linux,docker&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,,html,css,git,linux,docker&theme=dark)
 
 ## 📊 Estatísticas
 
@@ -30,13 +30,6 @@ Olá! Eu sou **Reis**. 👋
 
 </div>
 
-## 📈 Atividade
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true)
-
-</div>
 
 
 
