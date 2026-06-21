@@ -17,18 +17,8 @@ Olá! Eu sou **Reis**. 👋
 - 💬 Pergunte-me sobre: Transformers,Carros e TI
 - ⚡ Fun fact: Gosto de fazer Mods de jogos
 
-## 🛠️ Tecnologias
 
-![Skills](https://skillicons.dev/icons?i=python,,html,css,git,linux,docker&theme=dark)
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=dark&hide_border=true" width="48%"/>
-
-</div>
 
 
 
