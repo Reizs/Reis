@@ -17,11 +17,3 @@
 - 💬 Pergunte-me sobre: Transformers,Carros e TI
 - ⚡ Fun fact: Gosto de fazer Mods de jogos
 
-<div align="center">
-<img src="https://github.com/Reizs/Reis/blob/main/cd869525-e2a4-451e-b15c-00d2442c3245.png?raw=true" width="100%"/>
-<br><br>
-
-
-
-
-
